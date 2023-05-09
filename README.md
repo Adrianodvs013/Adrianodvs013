@@ -1,6 +1,7 @@
 
-<h2> Olá, mundo!Eu sou Adriano Gomes </h2> 
-<h3> Junior Developer. 😄 </h3>  
+<h3> Olá, mundo!</h3>
+<h1>Eu sou Adriano Gomes</h1>
+<h2> Junior Developer. 😄 </h2>  
 <br>          
 <h4> Seja bem vindo(a) ao meu perfil GitHub! 👋🏻. </h4>
    
@@ -8,7 +9,7 @@
 Este é o meu perfil no Github, onde eu compartilho projetos que desenvolvi. Aqui, você poderá encontrar alguns de meus trabalhos em progresso como desenvolvedor. Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo caso queira colaborar em algum projeto ou trocar ideias sobre programação. Vamos juntos contribuir para a comunidade de desenvolvimento de software.
 
   
-<h3>📫 Vamos entrar em contato!:<br></h3> 
+<h3>📫 Vamos entrar em contato?!:<br></h3> 
 
 <div> 
   <a href="https://www.instagram.com/ag013/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -17,9 +18,9 @@ Este é o meu perfil no Github, onde eu compartilho projetos que desenvolvi. Aqu
 </div>
  
 
-            <h3>⚡ These are my Skills: <br></h3>
+<h3>⚡ These are my Skills: <br></h3>
 
-<div align="center" style="display: inline_block">
+<div style="display: inline_block">
   <img alt="Ally-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Ally-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Ally-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
