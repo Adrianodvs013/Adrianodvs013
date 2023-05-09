@@ -1,4 +1,5 @@
 
+<h2> Olá, mundo!Eu sou Adriano Gomes </h2> 
 <h3> Junior Developer. 😄 </h3>  
 <br>          
 <h4> Seja bem vindo(a) ao meu perfil GitHub! 👋🏻. </h4>
@@ -16,7 +17,7 @@ Este é o meu perfil no Github, onde eu compartilho projetos que desenvolvi. Aqu
 </div>
  
 
-<h3>⚡ These are my Skills: <br></h3>
+            <h3>⚡ These are my Skills: <br></h3>
 
 <div align="center" style="display: inline_block">
   <img alt="Ally-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
