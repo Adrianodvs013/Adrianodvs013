@@ -31,7 +31,7 @@ Este é o meu perfil no Github, onde eu compartilho projetos que desenvolvi. Aqu
 <h3>⚡ Framework: <br></h3>
 
 <div style="display: inline_block">
-  https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white
+ <img alt="Ally-HTML" height="30" width="40" src="<img alt="Ally-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div> 
 
 
