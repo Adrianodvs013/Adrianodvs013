@@ -30,10 +30,9 @@ Este é o meu perfil no Github, onde eu compartilho projetos que desenvolvi. Aqu
 
 <h3>⚡ Framework: <br></h3>
 
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
-          
-
+<div>
+            https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white         
+</div>
 <h3>🌱 My Github Stats: <br></h3>
   
 <div>
