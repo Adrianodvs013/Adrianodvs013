@@ -30,12 +30,9 @@ Este é o meu perfil no Github, onde eu compartilho projetos que desenvolvi. Aqu
 
 <h3>⚡ Framework: <br></h3>
 
-<div>  
-    
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
           
-                   
-</div>
 
 <h3>🌱 My Github Stats: <br></h3>
   
