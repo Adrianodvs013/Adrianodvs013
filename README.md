@@ -30,10 +30,10 @@ Este é o meu perfil no Github, onde eu compartilho projetos que desenvolvi. Aqu
 
 <h3>⚡ Framework: <br></h3>
 
-<div> 
-  
+<div>  
+    
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg" />
-                             
+                                    
          
 </div>
 
