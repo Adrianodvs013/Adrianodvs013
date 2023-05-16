@@ -1,15 +1,13 @@
 
-<h3> Olá, mundo!</h3>
-<h1>Eu sou Adriano Gomes</h1>
-<h2> Junior Developer. 😄 </h2>  
+<h4> Olá, mundo! Eu sou </h4>
+<h1>Adriano Gomes </h1>
+<h2>Desenvolvedor Junior 💻 </h2>  
 <br>          
-<h4> Seja bem vindo(a) ao meu perfil GitHub! 👋🏻. </h4>
-   
-
+<h3> Seja bem vindo(a) ao meu perfil GitHub! 👋🏻. </h3>   
 Este é o meu perfil no Github. Aqui, você poderá encontrar alguns de meus estudos em progresso como desenvolvedor. Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo caso queira colaborar em algum projeto ou trocar ideias sobre programação. Vamos juntos contribuir para a comunidade de desenvolvimento de software.
 
   
-<h3>📫 Vamos entrar em contato?!:<br></h3> 
+<h3>📫 Vamos entrar em contato e conversar?! ☕:<br></h3> 
 <div> 
   <a href="https://www.instagram.com/ag013/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/feed/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
