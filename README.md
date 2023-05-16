@@ -28,6 +28,16 @@ Este é o meu perfil no Github, onde eu compartilho projetos que desenvolvi. Aqu
   <img alt="Ally-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div> 
 
+<h3>⚡ Framework: <br></h3>
+
+<div> 
+   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+         
+</div>
+
 <h3>🌱 My Github Stats: <br></h3>
   
 <div>
