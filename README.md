@@ -28,17 +28,20 @@ Este é o meu perfil no Github, onde eu compartilho projetos que desenvolvi. Aqu
   <img alt="Ally-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div> 
 
-<h3>⚡ Framework: <br></h3>
-
 <div style="display: inline_block">
- <img alt="Ally-Js" height="30" width="40" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+ <img alt="eclipse" height="40" width="115" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+ <img alt="visualcode" height="40" width="170" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
 </div> 
 
-
+<div style="display: inline_block">
+ <img alt="spring" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+ <img alt="bootstrap" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
+ <img alt="jquery" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
+</div>
 <h3>🌱 My Github Stats: <br></h3>
   
 <div>
   <a href="[https://github.com/Adrianodvs013](https://github.com/Adrianodvs013)"> 
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Adrianodvs013&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianodvs013&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="10em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianodvs013&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
