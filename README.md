@@ -21,23 +21,19 @@ Este é o meu perfil no Github, onde eu compartilho projetos que desenvolvi. Aqu
 <h3>⚡ These are my Skills: <br></h3>
 
 <div style="display: inline_block">
-  <img alt="Ally-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="Ally-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Ally-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Ally-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img alt="Ally-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Ally-HTML" height="45" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="Ally-CSS" height="45" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Ally-Js" height="45" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Ally-Java" height="45" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="Ally-Python" height="45" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div> 
 
 <div style="display: inline_block">
- <img alt="eclipse" height="40" width="115" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
- <img alt="visualcode" height="40" width="170" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
-</div> 
-
-<div style="display: inline_block">
- <img alt="spring" height="70" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
- <img alt="bootstrap" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
- <img alt="jquery" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
-</div>
+ <img alt="visualcode" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
+ <img alt="spring" height="60" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+ <img alt="bootstrap" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
+ <img alt="jquery" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
+ </div>
 <h3>🌱 My Github Stats: <br></h3>
   
 <div>
