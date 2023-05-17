@@ -30,12 +30,4 @@ Este é o meu perfil no Github. Aqui, você poderá encontrar alguns de meus est
  <img alt="jquery" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
  </div>
  
-<h3>🌱 My Github Stats : <br></h3>  
-<div>
-  <a href="[https://github.com/Adrianodvs013](https://github.com/Adrianodvs013)">
-  <a href="[https://github.com/Adrianodvs013](https://github.com/Adrianodvs013)">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Adrianodvs013&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianodvs013&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
-   
 
