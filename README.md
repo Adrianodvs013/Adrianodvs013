@@ -23,11 +23,9 @@ Este é o meu perfil no Github. Aqui, você poderá encontrar alguns de meus est
   <img alt="Ally-Python" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div> 
 <div style="display: inline_block">
- <img alt="eclipse" height="45" width="100" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
  <img alt="visualcode" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
  <img alt="spring" height="60" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
  <img alt="bootstrap" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
- <img alt="jquery" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
  </div>
  
  <div>
