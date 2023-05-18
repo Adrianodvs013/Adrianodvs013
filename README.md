@@ -20,7 +20,6 @@ Este é o meu perfil no Github. Aqui, você poderá encontrar alguns de meus est
   <img alt="Ally-CSS" height="45" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Ally-Js" height="45" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Ally-Java" height="75" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img alt="Ally-Python" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div> 
 <div style="display: inline_block">
  <img alt="visualcode" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
