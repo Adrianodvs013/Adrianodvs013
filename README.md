@@ -32,6 +32,6 @@ Este é o meu perfil no Github. Aqui, você poderá encontrar alguns de meus est
  
  <div>
   <a href="[https://github.com/Adrianodvs013](https://github.com/Adrianodvs013)"> 
-  <img height="250" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianodvs013&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="200" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianodvs013&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
