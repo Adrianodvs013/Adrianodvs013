@@ -30,4 +30,9 @@ Este é o meu perfil no Github. Aqui, você poderá encontrar alguns de meus est
  <img alt="jquery" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
  </div>
  
+ <div>
+  <a href="[https://github.com/Damascenolais](https://github.com/Damascenolais)"> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Damascenolais&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damascenolais&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
 
