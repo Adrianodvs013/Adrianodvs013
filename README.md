@@ -31,8 +31,7 @@ Este é o meu perfil no Github. Aqui, você poderá encontrar alguns de meus est
  </div>
  
  <div>
-  <a href="[https://github.com/Damascenolais](https://github.com/Damascenolais)"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Damascenolais&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damascenolais&layout=compact&langs_count=16&theme=tokyonight"/>
+  <a href="[https://github.com/Adrianodvs013](https://github.com/Adrianodvs013)"> 
+  <img height="250" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianodvs013&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
