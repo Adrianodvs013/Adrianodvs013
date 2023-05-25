@@ -14,10 +14,11 @@ Este é o meu perfil no Github. Aqui, você poderá encontrar alguns de meus est
   <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<a href="link"><img src="https://www.credly.com/badges/5546f0b2-fefd-43b0-8853-75132caf1edb/public_url" width="130" height="130"></a>
+<h3> ⚡ IT badges ⚡ </h3>
+<h4>Cybersecurity - issued by Cisco</h4>
+<a href="link"><img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="130" height="130"></a>
 
- 
-<h3>⚡ My technologies and skills : <br></h3>
+<h3> ⚡ My technologies and skills ⚡ <br></h3>
 <div style="display: inline_block">
   <img alt="Ally-HTML" height="45" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Ally-CSS" height="45" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
