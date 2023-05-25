@@ -1,7 +1,7 @@
 
 <h4> Hello World! I am </h4>
 <h1>Adriano Gomes </h1>
-<h2>Junior Developer 💻 </h2>  
+<h2> 💻 Junior Developer 💻 </h2>  
 <br>          
 <h3> Welcome to my profile GitHub! 👋🏻. </h3>   
 Este é o meu perfil no Github. Aqui, você poderá encontrar alguns de meus estudos em progresso como desenvolvedor. Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo caso queira colaborar em algum projeto ou trocar ideias sobre programação. Vamos juntos contribuir para a comunidade de desenvolvimento de software.
