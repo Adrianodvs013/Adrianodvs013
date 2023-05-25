@@ -13,6 +13,9 @@ Este é o meu perfil no Github. Aqui, você poderá encontrar alguns de meus est
   <a href="https://www.linkedin.com/feed/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+<a href="link"><img src="https://www.credly.com/badges/5546f0b2-fefd-43b0-8853-75132caf1edb/public_url" width="130" height="130"></a>
+
  
 <h3>⚡ My technologies and skills : <br></h3>
 <div style="display: inline_block">
